@@ -1,0 +1,11 @@
+p{
+    color: green;
+}
+
+#primerParrafo{
+    color: blue; 
+}
+
+.importante{
+    color: red; padding-top: 50px; padding-left: 15px;
+}
